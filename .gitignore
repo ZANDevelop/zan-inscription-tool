@@ -1,0 +1,14 @@
+.idea
+.vscode
+*/.DS_Store
+temp
+*.exe
+tmp/
+tmp/app
+!tmp
+
+tmp/logs
+
+
+executable/
+
